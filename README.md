@@ -5,15 +5,11 @@ Maritime intelligent transportation systems (MITS) are essential for ensuring na
 
 Our data have been fully organized; however, due to certain restrictions, they cannot be made publicly available. If needed, they can be obtained by contacting the authors.
 
-<div style="display: flex; justify-content: center;">
-  <figure style="margin: 0; width: 50%; max-width: 600px;">
-    <img 
-      alt="Figure01" 
-      src="https://github.com/user-attachments/assets/3d1ccb99-1d96-4ac9-a700-728fe8eec87c" 
-      style="width: 100%; height: auto; display: block; margin: 0 auto;" 
-    />
-    <figcaption style="margin-top: 12px; font-size: 14px; color: #555; text-align: justify; line-height: 1.5;">
-      <strong>Fig. 1</strong> The MITS integrates advanced infrastructure and artificial intelligence-driven analytics to enable cross-modal interaction-based vessel trajectory prediction (e.g., using AIS and CCTV data), ultimately enhancing maritime intelligence and MASS operations for safe, sustainable navigation.
-    </figcaption>
-  </figure>
+<div align="center">
+  <img width="600" alt="Figure01" src="https://github.com/user-attachments/assets/3d1ccb99-1d96-4ac9-a700-728fe8eec87c" />
+  <br>
+  <p align="left" width="600">
+    <br>
+    <strong>Fig. 1</strong> The MITS integrates advanced infrastructure and artificial intelligence-driven analytics to enable cross-modal interaction-based vessel trajectory prediction (e.g., using AIS and CCTV data), ultimately enhancing maritime intelligence and MASS operations for safe, sustainable navigation.
+  </p>
 </div>
