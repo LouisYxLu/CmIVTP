@@ -6,7 +6,7 @@ Maritime intelligent transportation systems (MITS) are essential for ensuring na
 Our data have been fully organized; however, due to certain restrictions, they cannot be made publicly available. If needed, they can be obtained by contacting the authors.
 
 <div style="display: flex; justify-content: center;">
-  <figure style="margin: 0; width: 60%; max-width: 600px;">
+  <figure style="margin: 0; width: 50%; max-width: 600px;">
     <img 
       alt="Figure01" 
       src="https://github.com/user-attachments/assets/3d1ccb99-1d96-4ac9-a700-728fe8eec87c" 
