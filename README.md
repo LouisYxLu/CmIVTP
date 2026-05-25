@@ -18,9 +18,9 @@ Our data have been fully organized; however, due to certain restrictions, they c
   <img width="2000" alt="Figure02<img width="5327" height="1683" alt="Figure02" src="https://github.com/user-attachments/assets/7d0ad0d8-f233-4167-9cb0-9cc90e6c4ffa" />
 " src="https://github.com/user-attachments/assets/3d1ccb99-1d96-4ac9-a700-728fe8eec87c" />
   <br>
-  <p align="left" width="600">
+  <p align="left" width="2000">
     <br>
-    <strong>Fig. 1</strong> The MITS integrates advanced infrastructure and artificial intelligence-driven analytics to enable cross-modal interaction-based vessel trajectory prediction (e.g., using AIS and CCTV data), ultimately enhancing maritime intelligence and MASS operations for safe, sustainable navigation.
+    <strong>Fig. 1</strong> The flowchart of the proposed cross-modal interaction-based vessel trajectory prediction (named CmIVTP) framework. It consists of four main modules: the visual scene target-aware encoder (VSTaE) to extract environmental interaction features, the cross-modal interaction-based encoder (CmIE) to fuse AIS and CCTV data for modeling complex interactions, and the uncertainty-aware variational decoder (UaVD) to generate future trajectories. Additionally, a vessel group trajectory bank (VGTB) is constructed to improve the efficiency and accuracy of trajectory generation.
   </p>
 </div>
 
